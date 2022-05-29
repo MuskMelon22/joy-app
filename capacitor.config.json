@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "joy app",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
